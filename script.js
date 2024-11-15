@@ -1,5 +1,8 @@
 function indexOfIgnoreCase(s1, s2) {
   // write your code here
+let idx = str.toLowerCase().indexOf("Ple".toLowerCase())
+return idx
+	
 }
 
 // Please do not change the code below
